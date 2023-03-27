@@ -1,4 +1,4 @@
-import { ShopifyProductVariant } from "@gadget-client/bundle-tutorial";
+import { ShopifyProductVariant } from "@gadget-client/discount";
 import { Checkbox, Stack } from "@shopify/polaris";
 import { useState } from "react";
 import { BundleVariant } from "../types/Bundle";

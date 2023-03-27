@@ -1,4 +1,4 @@
-import { ShopifyProductVariant, StoredFileInput } from "@gadget-client/bundle-tutorial";
+import { ShopifyProductVariant, StoredFileInput } from "@gadget-client/discount";
 import { useAction, useFindMany } from "@gadgetinc/react";
 import { useNavigate } from "@shopify/app-bridge-react";
 import {

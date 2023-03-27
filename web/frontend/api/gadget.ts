@@ -1,4 +1,4 @@
-import { Client } from "@gadget-client/bundle-tutorial";
+import { Client } from "@gadget-client/discount";
 
 // export an instance of the API client for this application
 export const api = new Client({
